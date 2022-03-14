@@ -8,10 +8,9 @@
 
 * The Digital Divide: the gap between people who have easy access to technology and those who don't
 * Some contributing factors to the digital divide are socioeconomic, geographic, and demographic
-* Individual may have less access to latest updates, thus may be working on older generations of computers
-* Religious groups like the Amish choose not to use technology
-* In our environment, Del Norte CS preference is that you have your own computer so that you can work away from school.
-* In our classroom, internet blockers at router and lack of admin password can make school computer less productive than personally owned compute
+* Individuals may have less access to latest updates
+* In our environment, Del Norte CS preference is that you have your own computer, which can cause inequity issues
+
 <table id="readmeinformation">
 
 <tr>
@@ -46,9 +45,9 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 ### TPT 0.1
 ***
 * UAVs/Drones are used in search & rescue, aerial photography, and for hobbies, but it also has unintended uses
-* Dopamine plays a role in how we feel pleasure
+* Dopamine plays a role in how we feel pleasure, can have posititve and negative effects
 * Some people's computer time may be greater than their sleep time
-* Innovations in phone trees, voice recognition, or keypads often enables customers to find answers quickly.
+* Innovations in phone trees, voice recognition, or keypads often enables efficient service
 
 <table id="readmeinformation">
 
