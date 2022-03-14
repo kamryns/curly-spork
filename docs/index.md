@@ -10,7 +10,7 @@
 <tr>
 <td>How does someone empower themself in a digital world?</td>
 <td>
-Answer to question 1
+Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
 </td>
 </tr>
 
