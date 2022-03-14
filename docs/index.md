@@ -24,3 +24,34 @@ Answer to question 1
 
 </table>
 
+***
+<table id="readmeinformation">
+
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+
+<tr>
+<td>How does someone empower themself in a digital world?</td>
+<td>
+Answer to question 1
+</td>
+</tr>
+
+<tr>
+<td>How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.</td>
+<td>
+Answer to question 1
+</td>
+</tr>
+
+<tr>
+<td>Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?</td>
+<td>
+Answer to question 1
+</td>
+</tr>
+  
+</table>
+
