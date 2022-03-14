@@ -108,35 +108,7 @@ if __name__ == "__main__":
         else:
             print("Enter a valid input")
         print("   ")
-   
-from time import sleep
 
-def printRocket():
-    print(
-        """ </br>
-                   _
-                  /^\\ </br>
-                  |-| </br>
-                  | | </br>
-                  |N| </br>
-                  |A| </br>
-                  |S| </br>
-                  |A| </br>
-                 /| |\\ </br>
-                / | | \\ </br>
-               |  | |  | </br>
-               `-\\"\\"\\"-` </br>
-        """)
-
-printRocket()
-
-delay = 300
-for i in range(60):
-    print()
-    sleep(delay/1000)
-    delay = delay * 0.9
-
-printRocket()
 
 
 ### Create Task
