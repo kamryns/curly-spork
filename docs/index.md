@@ -17,14 +17,14 @@ Digital empowerment allows people to reach their full potential in a networked s
 <tr>
 <td>How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.</td>
 <td>
-Answer to question 1
+Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
 </td>
 </tr>
 
 <tr>
 <td>Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?</td>
 <td>
-Answer to question 1
+The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
 </td>
 </tr>
   
