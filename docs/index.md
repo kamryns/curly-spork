@@ -1,5 +1,9 @@
 ### TPT 0.2
 ***
+
+* The Digital Divide: the gap between people who have easy access to technology and those who don't
+* Some contributing factors to the digital divide are socioeconomic, geographic, and demographic
+* Creates issues of inequity
 <table id="readmeinformation">
 
 <tr>
@@ -33,6 +37,8 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 
 ### TPT 0.1
 ***
+* 
+
 <table id="readmeinformation">
 
 <tr>
