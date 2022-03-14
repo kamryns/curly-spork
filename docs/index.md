@@ -43,7 +43,10 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 
 ### TPT 0.1
 ***
-* 
+* UAVs/Drones are used in search & rescue, aerial photography, and for hobbies, but it also has unintended uses
+* Dopamine plays a role in how we feel pleasure
+* Some people's computer time may be greater than their sleep time
+* Innovations in phone trees, voice recognition, or keypads often enables customers to find answers quickly.
 
 <table id="readmeinformation">
 
@@ -69,7 +72,7 @@ Dopamine is what allows people to feel pleasure. While it can be a positive expe
 
 
 # Create Task
-[Plan](https://github.com/sarayu-pr11/team-narks/wiki/Kamryn's-Create-Task)
-[Runtime Video](https://www.loom.com/share/4e2beeba2ce04d32ad07f629e0d4fe1c)
+[Plan](https://github.com/sarayu-pr11/team-narks/wiki/Kamryn's-Create-Task) </br>
+[Runtime Video](https://www.loom.com/share/4e2beeba2ce04d32ad07f629e0d4fe1c) </br>
 [Code](https://github.com/sarayu-pr11/team-narks/blob/main/templates/wordle.html)
 
