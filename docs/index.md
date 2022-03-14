@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kamryns/curly-spork/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### TPT 0.1
+***
+<table id="readmeinformation">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
 
-### Markdown
+<tr>
+<td>Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.</td>
+<td>
+Answer to question 1
+</td>
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+<td>Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?</td>
+<td>
+Answer to question 1
+</td>
+</tr>
 
-```markdown
-Syntax highlighted code block
+</table>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamryns/curly-spork/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
