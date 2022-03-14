@@ -49,7 +49,7 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 <tr>
 <td>Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?</td>
 <td>
-Answer to question 1
+Dopamine is what allows people to feel pleasure. While it can be a positive experience for people, it can also have a negative impact on their mental and physical healths, as dopamine is addictive. For me, getting good grades is my source of dopamine that keeps me constantly feeling the need to do well in school. At times it can really affect my mental health, but when I get good grades, it is so worth it.
 </td>
 </tr>
 
