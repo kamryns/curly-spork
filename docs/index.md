@@ -6,7 +6,10 @@ https://replit.com/@kamryns1/curly-spork#.replit
 
 * The Digital Divide: the gap between people who have easy access to technology and those who don't
 * Some contributing factors to the digital divide are socioeconomic, geographic, and demographic
-* Creates issues of inequity
+* Individual may have less access to latest updates, thus may be working on older generations of computers
+* Religious groups like the Amish choose not to use technology
+* In our environment, Del Norte CS preference is that you have your own computer so that you can work away from school.
+* In our classroom, internet blockers at router and lack of admin password can make school computer less productive than personally owned compute
 <table id="readmeinformation">
 
 <tr>
