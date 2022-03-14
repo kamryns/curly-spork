@@ -42,8 +42,7 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 
 <tr>
 <td>Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.</td>
-<td>
-Answer to question 1
+<td> Computing is beneficial because it is more efficient, it is more accurate, and opens up a world of opportunities for people. However, it is harmful because it can become invasive, addicting, and distracting if used in the wrong ways.
 </td>
 </tr>
 
