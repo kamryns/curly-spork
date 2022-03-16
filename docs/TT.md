@@ -1,6 +1,6 @@
 {% include navigation.html %}
-#[Github](https://github.com/kamryns/curly-spork)
-#[Replit](https://replit.com/@kamryns1/curly-spork#.replit)
+### [Github](https://github.com/kamryns/curly-spork) 
+### [Replit](https://replit.com/@kamryns1/curly-spork#.replit) 
 
 # TT0 Menu
 menu = [ </br>
