@@ -1,6 +1,7 @@
 {% include navigation.html %}
+#[Github](https://github.com/kamryns/curly-spork)
 
-# Menu
+## TT0 Menu
 menu = [ </br>
 ["1. Swap", "swap.py"], </br>
 ["2. Matrix", "matrix.py"], </br>
@@ -38,7 +39,7 @@ userInput = input("")</br>
             print("Enter a valid input")
         print("   ")
 
-# Animation
+## TT0 Animation
 from time import sleep
 
 def printRocket(): </br>
