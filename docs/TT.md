@@ -1,20 +1,98 @@
 {% include navigation.html %}
 ### [Github](https://github.com/kamryns/curly-spork) 
-### [Replit](https://replit.com/@kamryns1/curly-spork#.replit) 
+### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
+<iframe  src="https://replit.com/@kamryns1/curly-spork#.replit?QUERY_PARAMETERS"></iframe>
+#TT1 InfoDb
+`InfoDb = []`
+
+`InfoDb.append({
+"FirstName": "Kamryn",
+"LastName": "Sinsuan",
+"Grade": "11th",
+"Classes":["Photography 2","APEL","AP Calc","APCSP", "US History 2"]
+})`
+
+`InfoDb.append({
+"FirstName": "Khloe",
+"LastName": "Sinsuan",
+"Grade": "7th",
+"Classes":["PE","Language Arts","Math","Social Studies", "Science", "Art"]
+})`
+
+`def print_data(n):`
+
+`print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
+print("\t", "Schedule: ", end="")  
+print(", ".join(InfoDb[n]["Classes"])) 
+print()`
+
+`def for_loop():
+for n in range(len(InfoDb)):
+print_data(n)`
+
+`def while_loop(n):
+while n < len(InfoDb):
+print_data(n)
+n += 1
+return`
+
+`def recursive_loop(n):
+if n < len(InfoDb):
+print_data(n)
+recursive_loop(n + 1)
+return # exit condition`
+
+`def tester():
+print_data(0)
+print_data(1)
+print("For loop")
+for_loop()
+print("While loop")
+while_loop(0)  # requires initial index to start while
+print("Recursive loop")
+recursive_loop(0)  # requires initial index to start recursion`
+
+`if __name__ == "__main__":
+tester()`
+
+#TT1 Fibonacci
+`def recur_fibonacci(n):`
+
+`if n <= 1:
+return n
+else:
+return(recur_fibonacci(n-1) + recur_fibonacci(n-2))`
+
+`print("How many integers should this sequence be?")`
+
+`nterms = input()
+nterms = int(nterms)`
+
+
+`try:`
+
+`if nterms >= 0:
+print("Fibonacci sequence:")
+for i in range(nterms):
+print(recur_fibonacci(i))
+except:
+print("Plese enter a positive integer")`
 
 # TT0 Menu
-menu = [ </br>
-["1. Swap", "swap.py"], </br>
-["2. Matrix", "matrix.py"], </br>
-["3. Exit"], </br>
-] </br>
+`menu = [`
 
-if __name__ == "__main__": </br>
-while True: </br>
-for i in range(len(menu)):</br>
-print(menu[i][0])</br>
-print("Select an Option:")</br>
-userInput = input("")</br>
+`["1. Swap", "swap.py"],
+["2. Matrix", "matrix.py"],
+["3. Exit"],
+]`
+
+`if __name__ == "__main__":`
+
+`while True:
+for i in range(len(menu)):
+print(menu[i][0])
+print("Select an Option:")
+userInput = input("")`
 
         if userInput == "swap" or userInput == "1":
             print(" ")
@@ -41,31 +119,35 @@ userInput = input("")</br>
         print("   ")
 
 ## TT0 Animation
-from time import sleep
+`from time import sleep`
 
-def printRocket(): </br>
-print( </br>
-""" </br>
- _</br>
-/^\\</br>
-|-|</br>
-| |</br>
-|N|</br>
-|A|</br>
-|S|</br>
-|A|</br>
-/| |\\</br>
-/ | | \\</br>
-|  | |  |</br>
-`-\\"\\"\\"-`</br>
-""")</br>
+`def printRocket():
+print(
+"""
+_
+/^\\
+|-|
+| |
+|N|
+|A|
+|S|
+|A|
+/| |\\
+/ | | \\
+|  | |  |`
+`-\\"\\"\\"-`
+""")
 
-printRocket()
+`printRocket()`
 
-delay = 300</br>
-for i in range(60):</br>
-print()</br>
-sleep(delay/1000)</br>
-delay = delay * 0.9</br>
+`delay = 300
+for i in range(60):
+print()
+sleep(delay/1000)
+delay = delay * 0.9`
 
-printRocket()
+`printRocket()`
+
+
+
+
