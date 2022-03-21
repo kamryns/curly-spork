@@ -18,14 +18,14 @@
 <tr>
 <td>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</td>
 <td>
-Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
+Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
 </td>
 </tr>
 
 <tr>
 <td>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</td>
 <td>
-Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
 </td>
 </tr>
 
@@ -48,35 +48,28 @@ Someone who is empowered in the digital world could help someone who is not by p
 <tr>
 <td>Does the owner of the computer think this was intentional? Justify.</td>
 <td>
-Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
+No, the owner of the computer doesn't seem to think this was intentional as he appears to be making fun of it and laughing about the difference of the tracker compared to his coworker.
 </td>
 </tr>
 
 <tr>
 <td>How do you think this happened?</td>
 <td>
-Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
+I think this happened because the people who created this only tested it in on a certain group of individuals and once they finally got it to work, they didn't know that it wouldn't be adjusted to work on a different group of individuals.
 </td>
 </tr>
 
 <tr>
 <td>Is this harmful? Was it intended to be harmful or exclude?</td>
 <td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+Although it wasn't meant to be harmful or exclusive, it can actually be upsetting for POC because they may feel neglected or underrepresented. 
 </td>
 </tr>
 
 <tr>
-<td>Should it be corrected?</td>
+<td>Should it be corrected? What would you or should you do to produce a better outcome?</td>
 <td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
-</td>
-</tr>
-
-<tr>
-<td>What would you or should you do to produce a better outcome?</td>
-<td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+Yes, this should've been corrected immediately. In order to have produced a better outcome, the developers and testers should've taken data from a diverse group to ensure that the product would work properly for every single user.
 </td>
 </tr>
 </table>
