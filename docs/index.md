@@ -1,5 +1,6 @@
 {% include navigation.html %}
-### Review Ticket
-[Week 0](https://github.com/kamryns/curly-spork/issues/2)
+# Review Tickets
+## [Week 1](https://github.com/kamryns/curly-spork/issues/3)
+## [Week 0](https://github.com/kamryns/curly-spork/issues/2)
 
 
