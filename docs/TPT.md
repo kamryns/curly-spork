@@ -48,38 +48,31 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 <tr>
 <td>Does the owner of the computer think this was intentional? Justify.</td>
 <td>
-Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
+No, the owner of the computer doesn't seem to think this was intentional as he appears to be making fun of it and laughing about the difference of the tracker compared to his coworker.
 </td>
 </tr>
 
 <tr>
 <td>How do you think this happened?</td>
 <td>
-Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
+I think this happened because the people who created this only tested it in on a certain group of individuals and once they finally got it to work, they didn't know that it wouldn't be adjusted to work on a different group of individuals.
 </td>
 </tr>
 
 <tr>
 <td>Is this harmful? Was it intended to be harmful or exclude?</td>
 <td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+Although it wasn't meant to be harmful or exclusive, it can actually be upsetting for POC because they may feel neglected or underrepresented. 
 </td>
 </tr>
 
 <tr>
-<td>Should it be corrected?</td>
+<td>Should it be corrected? What would you or should you do to produce a better outcome?</td>
 <td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+Yes, this should've been corrected immediately. In order to have produced a better outcome, the developers and testers should've taken data from a diverse group to ensure that the product would work properly for every single user.
 </td>
 </tr>
 
-<tr>
-<td>What would you or should you do to produce a better outcome?</td>
-<td>
-The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
-</td>
-</tr>
-</table>
 
 ### TPT 0.2
 ***
