@@ -1,4 +1,4 @@
-{% include navigation.html %}
+snippets{% include navigation.html %}
 ### [Github](https://github.com/kamryns/curly-spork) 
 ### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
 <iframe  src="https://replit.com/@kamryns1/curly-spork#.replit?QUERY_PARAMETERS"></iframe>
