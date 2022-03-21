@@ -2,7 +2,8 @@
 ### [Github](https://github.com/kamryns/curly-spork) 
 ### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
 <iframe  src="https://replit.com/@kamryns1/curly-spork#.replit?QUERY_PARAMETERS"></iframe>
-#TT1 InfoDb
+## TT1 InfoDb
+
 `InfoDb = []`
 
 `InfoDb.append({
@@ -55,7 +56,8 @@ recursive_loop(0)  # requires initial index to start recursion`
 `if __name__ == "__main__":
 tester()`
 
-#TT1 Fibonacci
+## TT1 Fibonacci
+
 `def recur_fibonacci(n):`
 
 `if n <= 1:
@@ -78,7 +80,7 @@ print(recur_fibonacci(i))
 except:
 print("Plese enter a positive integer")`
 
-# TT0 Menu
+## TT0 Menu
 `menu = [`
 
 `["1. Swap", "swap.py"],
