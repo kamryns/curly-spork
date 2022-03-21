@@ -72,7 +72,7 @@ Although it wasn't meant to be harmful or exclusive, it can actually be upsettin
 Yes, this should've been corrected immediately. In order to have produced a better outcome, the developers and testers should've taken data from a diverse group to ensure that the product would work properly for every single user.
 </td>
 </tr>
-
+</table>
 
 ### TPT 0.2
 ***
