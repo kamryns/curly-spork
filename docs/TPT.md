@@ -1,4 +1,85 @@
 {% include navigation.html %}
+### TPT 1.1
+***
+* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
+  * helps to reduce computer bias 
+* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
+* In CSP, we use crowdsourcing through
+  * Rapid APIs - retrieves external data
+  * Github - sharing and exchanging code with other Github users
+
+<table id="readmeinformation">
+
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+
+<tr>
+<td>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</td>
+<td>
+Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
+</td>
+</tr>
+
+<tr>
+<td>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</td>
+<td>
+Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
+</td>
+</tr>
+
+</table>
+
+### TPT 1.0
+***
+* Computer Bias: computer systems that discriminate against individuals or groups of individuals
+* Intentional Bias
+  * Facebook is targeted towards older people while Tiktok is targeted towards younger people
+  * Netflix algorithm changes to show certain content to certain groups of people
+  
+<table id="readmeinformation">
+
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+
+<tr>
+<td>Does the owner of the computer think this was intentional? Justify.</td>
+<td>
+Digital empowerment allows people to reach their full potential in a networked society. People can empower themselves in the digital world by investing time into expanding their knowledge of technology. From then on, students can use their existing knowledge to participate in the digital world, and even continue building on it.
+</td>
+</tr>
+
+<tr>
+<td>How do you think this happened?</td>
+<td>
+Someone who is empowered in the digital world could help someone who is not by passing on their own knowledge to them. This could simply be done by answering any questions they might have, which is already tremendous guidance. However, something that could be done at greater level would be to start a club, at Del Norte for example, that is specifically dedicated to empowering people in the digital world.
+</td>
+</tr>
+
+<tr>
+<td>Is this harmful? Was it intended to be harmful or exclude?</td>
+<td>
+The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+</td>
+</tr>
+
+<tr>
+<td>Should it be corrected?</td>
+<td>
+The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+</td>
+</tr>
+
+<tr>
+<td>What would you or should you do to produce a better outcome?</td>
+<td>
+The "paper/red tape" that is blocking digital empowerment is the digital divide, where not everyone has equal access to technology. These barriers can most often be seen in poorer places, and can be seen within Del Norte. Our high school encourages students to bring their own laptops/devices to school, but this may not be possible for some students. 
+</td>
+</tr>
+</table>
 
 ### TPT 0.2
 ***
