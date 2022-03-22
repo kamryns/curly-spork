@@ -1,7 +1,8 @@
 {% include navigation.html %}
 ### [Github](https://github.com/kamryns/curly-spork) 
 ### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
-<iframe height="1000px" width="600px" src="https://replit.com/@kamryns/curly-spork?lite=true#main.py"></iframe>
+<iframe height="1000px" width="500px" src="https://replit.com/@kamryns/curly-spork?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@kamryns/curly-spork?lite=true"></iframe>
 
 ## TT1 InfoDb
 
