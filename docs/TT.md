@@ -1,8 +1,9 @@
 {% include navigation.html %}
 ### [Github](https://github.com/kamryns/curly-spork) 
 ### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
-<iframe  src="https://replit.com/@kamryns1/curly-spork#.replit?QUERY_PARAMETERS"></iframe>
+<iframe frameborder=“0” width=“100%” height=“800px” src=“https://replit.com/@kamryns1/curly-spork?lite=true#main.py”>
 ## TT1 InfoDb
+
 
 `InfoDb = []`
 
@@ -19,6 +20,7 @@
 "Grade": "7th",
 "Classes":["PE","Language Arts","Math","Social Studies", "Science", "Art"]
 })`
+
 
 `def print_data(n):`
 
