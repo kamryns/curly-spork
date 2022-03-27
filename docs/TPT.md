@@ -1,4 +1,61 @@
 {% include navigation.html %}
+## TPT 5.5 - Safe Computing
+
+* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
+  * helps to reduce computer bias 
+* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
+
+<table id="readmeinformation">
+
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+
+<tr>
+<td>Describe PII you have seen on project in CompSci Principles.</td>
+<td>
+Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
+</td>
+</tr>
+
+<tr>
+<td>What are your feelings about PII and your exposure?</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+ 
+<tr>
+<td>Describe good and bad passwords? What is another step that is used to assist in authentication.</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+ 
+<tr>
+<td>Try to describe Symmetric and Asymmetric encryption.</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+ 
+<tr>
+<td>Provide and example of encryption we used in deployment.</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+
+<tr>
+<td>Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+ 
+</table>
+
 ## TPT 5.5 - Legal and Ethical Concerns
 
 * Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
@@ -13,14 +70,14 @@
 </tr>
 
 <tr>
-<td>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</td>
+<td>When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.</td>
 <td>
 Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
 </td>
 </tr>
 
 <tr>
-<td>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</td>
+<td>Make a license for your personal and Team project. Document license you picked and why.</td>
 <td>
 Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
 </td>
