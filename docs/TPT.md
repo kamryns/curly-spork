@@ -57,10 +57,15 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 </table>
 
 ## TPT 5.5 - Legal and Ethical Concerns
-* It's important to know the type of software license you are copying
+* It's important to know the type of software license you are copying, ensuring compliance with the terms
+* Here are some of the licenses we are choosing from for our project
   * Creative Commons Zero v1.0 Universal 
   * Open Source MIT License
   * Open Source GPL License
+ 
+<table id="readmeinformation">
+</td>
+</tr>
 
 <tr>
 <th>Question</th>
@@ -72,9 +77,6 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 <td>
 A Creative Commons License waives copyright interest in your work and dedicates it to world-wide public domain. An Open Source MIT License allows free code use and distribution of closed source versions. An Open Source GPL License lets people do almost anything with your project except distribution of closed source versions.
 
-<table id="readmeinformation">
-</td>
-</tr>
 
 <tr>
 <td>Make a license for your personal and Team project. Document license you picked and why.</td>
