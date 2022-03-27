@@ -1,10 +1,11 @@
 {% include navigation.html %}
 ## TPT 5.6 - Safe Computing
 
-* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
-  * helps to reduce computer bias 
-* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
-
+* PII: Personal Identifiable Information
+  * public information - name, email, picture, high school, college, properties
+  * cautious of - birthdate, place of birth, address, phone number, maiden names of mother, drivers license number
+  * keep secret - credentials for access, 2-factor authentication, social security, tax records
+* safety practices to establish: multi-factor authentication, be on the lookout for malware and phishing
 <table id="readmeinformation">
 
 <tr>
