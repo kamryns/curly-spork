@@ -57,12 +57,10 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 </table>
 
 ## TPT 5.5 - Legal and Ethical Concerns
-
-* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
-  * helps to reduce computer bias 
-* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
-
-<table id="readmeinformation">
+* It's important to know the type of software license you are copying
+  * Creative Commons Zero v1.0 Universal 
+  * Open Source MIT License
+  * Open Source GPL License
 
 <tr>
 <th>Question</th>
@@ -72,20 +70,22 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 <tr>
 <td>When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.</td>
 <td>
-Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
+A Creative Commons License waives copyright interest in your work and dedicates it to world-wide public domain. An Open Source MIT License allows free code use and distribution of closed source versions. An Open Source GPL License lets people do almost anything with your project except distribution of closed source versions.
+
+<table id="readmeinformation">
 </td>
 </tr>
 
 <tr>
 <td>Make a license for your personal and Team project. Document license you picked and why.</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+Our team and sponsor all agreed on using a Creative Commons License because it is ideal for educational use, and our website encourages readers to develop their education through the love of reading. Also, we wouldn't mind if other CSP students wanted to build onto our project and improve it. A Creative Commons License would be ideal for this purpose, as long as we are given some form of credit.
 </td>
 </tr>
 
 </table>
 
-## TPT 5.5 - Crowdsourcing
+## TPT 5.4 - Crowdsourcing
 
 * Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
   * helps to reduce computer bias 
