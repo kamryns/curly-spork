@@ -1,6 +1,35 @@
 {% include navigation.html %}
-### TPT 5.4 - Crowdsourcing
-***
+## TPT 5.5 - Legal and Ethical Concerns
+
+* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
+  * helps to reduce computer bias 
+* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
+
+<table id="readmeinformation">
+
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+
+<tr>
+<td>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</td>
+<td>
+Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
+</td>
+</tr>
+
+<tr>
+<td>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</td>
+<td>
+Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+</td>
+</tr>
+
+</table>
+
+## TPT 5.5 - Crowdsourcing
+
 * Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
   * helps to reduce computer bias 
 * Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
@@ -31,8 +60,8 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 
 </table>
 
-### TPT 5.3 - Computing Bias
-***
+## TPT 5.3 - Computing Bias
+
 * Computer Bias: computer systems that discriminate against individuals or groups of individuals
 * Intentional Bias
   * Facebook is targeted towards older people while Tiktok is targeted towards younger people
@@ -74,8 +103,8 @@ Yes, this should've been corrected immediately. In order to have produced a bett
 </tr>
 </table>
 
-### TPT 5.2 - Digital Divide
-***
+## TPT 5.2 - Digital Divide
+
 * The Digital Divide: the gap between people who have easy access to technology and those who don’t
 * Some contributing factors to the digital divide are socioeconomic, geographic, and demographic
 * Individuals may have less access to latest updates
@@ -111,8 +140,8 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 </table>
 
 
-### TPT 5.1 - Effects of Computing
-***
+## TPT 5.1 - Effects of Computing
+
 * UAVs/Drones are used in search & rescue, aerial photography, and for hobbies, but it also has unintended uses
 * Dopamine plays a role in how we feel pleasure, can have posititve and negative effects
 * Some people’s computer time may be greater than their sleep time
