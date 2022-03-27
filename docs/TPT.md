@@ -1,5 +1,5 @@
 {% include navigation.html %}
-## TPT 5.5 - Safe Computing
+## TPT 5.6 - Safe Computing
 
 * Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
   * helps to reduce computer bias 
