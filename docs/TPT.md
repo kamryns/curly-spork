@@ -1,5 +1,5 @@
 {% include navigation.html %}
-### TPT 1.1
+### TPT 5.4 - Crowdsourcing
 ***
 * Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
   * helps to reduce computer bias 
@@ -31,7 +31,7 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 
 </table>
 
-### TPT 1.0
+### TPT 5.3 - Computing Bias
 ***
 * Computer Bias: computer systems that discriminate against individuals or groups of individuals
 * Intentional Bias
@@ -74,7 +74,7 @@ Yes, this should've been corrected immediately. In order to have produced a bett
 </tr>
 </table>
 
-### TPT 0.2
+### TPT 5.2 - Digital Divide
 ***
 * The Digital Divide: the gap between people who have easy access to technology and those who don’t
 * Some contributing factors to the digital divide are socioeconomic, geographic, and demographic
@@ -111,7 +111,7 @@ The "paper/red tape" that is blocking digital empowerment is the digital divide,
 </table>
 
 
-### TPT 0.1
+### TPT 5.1 - Effects of Computing
 ***
 * UAVs/Drones are used in search & rescue, aerial photography, and for hobbies, but it also has unintended uses
 * Dopamine plays a role in how we feel pleasure, can have posititve and negative effects
