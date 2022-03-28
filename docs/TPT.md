@@ -84,6 +84,8 @@ Our team and sponsor all agreed on using a Creative Commons License because it i
 </td>
 </tr>
 </table>
+ 
+ 
 
 ## TPT 5.4 - Crowdsourcing
 
