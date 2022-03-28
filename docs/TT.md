@@ -1,8 +1,8 @@
 {% include navigation.html %}
 ### [Github](https://github.com/kamryns/curly-spork) 
 ### [Replit](https://replit.com/@kamryns1/curly-spork#.replit)
-<iframe height="1000px" width="500px" src="https://replit.com/@kamryns/curly-spork?lite=true"></iframe>
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@kamryns/curly-spork?lite=true"></iframe>
+
+<iframe height="1000px" width="800px" src="https://replit.com/@kamryns1/curly-spork?lite=true#menu.py"></iframe>
 
 ## TT2 Factorial
 
