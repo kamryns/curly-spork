@@ -1,3 +1,4 @@
+
 InfoDb = []
 # List with dictionary records placed in a list
 # Hack 1: InfoDB lists.  Build your own/personalized InfoDb with a list length > 3,  create list within a list as illustrated with Owns_Cars
@@ -52,4 +53,3 @@ def tester():
 
 if __name__ == "__main__":
     tester()
-
