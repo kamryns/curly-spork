@@ -23,7 +23,7 @@ One example of PII I have seen in CSP was the example table for the CRUD project
 <tr>
 <td>What are your feelings about PII and your exposure?</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+It's a little scary knowing how easily people could find my personal information and knowing what might they do with it, but that knowledge will keep me  more accountable for the content I'm putting out into the world and ultimately make my digital presence a litle safer for myself.
 </td>
 </tr>
  
