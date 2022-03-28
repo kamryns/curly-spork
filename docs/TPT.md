@@ -88,13 +88,6 @@ Our team and sponsor all agreed on using a Creative Commons License because it i
  
 
 ## TPT 5.4 - Crowdsourcing
-
-* Crowdsourcing: reaching out beyond one community to obtain and share information, and participate in distributed computing
-  * helps to reduce computer bias 
-* Crowdsourcing is evident in Wikipedia, Crypto currency, and COVID data
-* In CSP, we use crowdsourcing through
-  * Rapid APIs - retrieves external data
-  * Github - sharing and exchanging code with other Github users
  
 <table id="readmeinformation">
 
