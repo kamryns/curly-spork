@@ -44,7 +44,7 @@ Symmetric encryption is when only one key is used for both the encryption and de
 <tr>
 <td>Provide and example of encryption we used in deployment.</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+An example of encryption used in deployment was the process of Certbot to switch our HTTP site to work in HTTPS, which is more secure, by getting a certificate from Let's Encrypt.
 </td>
 </tr>
 
