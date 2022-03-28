@@ -6,6 +6,7 @@
 
 ## TT2 Factorial
 
+
 class Factorial:
     def __init__(self):
         self.facSeq = [0, 1]
