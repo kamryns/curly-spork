@@ -93,7 +93,7 @@ Our team and sponsor all agreed on using a Creative Commons License because it i
 * In CSP, we use crowdsourcing through
   * Rapid APIs - retrieves external data
   * Github - sharing and exchanging code with other Github users
-
+ 
 <table id="readmeinformation">
 
 <tr>
@@ -105,8 +105,7 @@ Our team and sponsor all agreed on using a Creative Commons License because it i
 <td>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</td>
 <td>
 Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
-</td>
-</tr>
+
 
 <tr>
 <td>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</td>
@@ -114,9 +113,8 @@ Crowdsourcing can be introduced into our CSP environment by implementing surveys
 Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
 </td>
 </tr>
-
 </table>
-
+ 
 ## TPT 5.3 - Computing Bias
 
 * Computer Bias: computer systems that discriminate against individuals or groups of individuals
