@@ -16,7 +16,7 @@
 <tr>
 <td>Describe PII you have seen on project in CompSci Principles.</td>
 <td>
-Crowdsourcing can be introduced into our CSP environment by implementing surveys on experience in order for students of different skill sets to come together to collaborate on a project. By taking into account the diverse levels of experience and distributing students according to their skills, teams will be better equipped to solve any problems. This will also allow a wider variety ideas to be shared, which can significantly enhance the quality of work.
+One example of PII I have seen in CSP was the example table for the CRUD project. This is PII because there were entry boxes for people to enter their name and email address, which could then be accessed by every single student in CSP.
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 <tr>
 <td>Try to describe Symmetric and Asymmetric encryption.</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+Symmetric encryption is when only one key is used for both the encryption and decryption of electronic information, whereas Asymmetric encryption allows users to encrypt information using pairs of keys that consist of a public and private key.
 </td>
 </tr>
  
