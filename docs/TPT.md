@@ -85,7 +85,6 @@ A Creative Commons License waives copyright interest in your work and dedicates 
 Our team and sponsor all agreed on using a Creative Commons License because it is ideal for educational use, and our website encourages readers to develop their education through the love of reading. Also, we wouldn't mind if other CSP students wanted to build onto our project and improve it. A Creative Commons License would be ideal for this purpose, as long as we are given some form of credit.
 </td>
 </tr>
-
 </table>
 
 ## TPT 5.4 - Crowdsourcing
