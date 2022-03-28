@@ -65,8 +65,6 @@ Luckily, there haven't been any instances where I have fallen for a phishing sch
   * Open Source GPL License
  
 <table id="readmeinformation">
-</td>
-</tr>
 
 <tr>
 <th>Question</th>
