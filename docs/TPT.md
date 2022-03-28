@@ -51,7 +51,7 @@ Crowdsourcing within Del Norte can be very helpful, especially for our current p
 <tr>
 <td>Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+Luckily, there haven't been any instances where I have fallen for a phishing scheme. But I have encountered them because I used to get texts from unknown numbers sending me suspicious links. Other phishing technique I've heard of could be from emails or social media.
 </td>
 </tr>
  
