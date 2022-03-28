@@ -30,7 +30,7 @@ It's a little scary knowing how easily people could find my personal information
 <tr>
 <td>Describe good and bad passwords? What is another step that is used to assist in authentication.</td>
 <td>
-Crowdsourcing within Del Norte can be very helpful, especially for our current project. Our website will be catered towards people, students specifically, who love to read or are wanting to get into reading. So it will be extremely helpful if we can get any feedback from our fellow peers and teachers in order to bring in new perspectives.
+A good password should have a variation of capital and lowercase letters, and a variation numbers and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices.
 </td>
 </tr>
  
