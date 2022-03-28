@@ -30,7 +30,7 @@ It's a little scary knowing how easily people could find my personal information
 <tr>
 <td>Describe good and bad passwords? What is another step that is used to assist in authentication.</td>
 <td>
-A good password should have a variation of capital and lowercase letters, and a variation numbers and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices.
+A good password should have a variation of letters, numbers, and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices.
 </td>
 </tr>
  
