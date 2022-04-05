@@ -5,6 +5,7 @@
   * public information - name, email, picture, high school, college, properties
   * cautious of - birthdate, place of birth, address, phone number, maiden names of mother, drivers license number
   * keep secret - credentials for access, 2-factor authentication, social security, tax records
+  * Many people use many different techniques to get PII for different uses 
 * safety practices to establish: multi-factor authentication, be on the lookout for malware and phishing
 <table id="readmeinformation">
 
@@ -30,7 +31,7 @@ It's a little scary knowing how easily people could find my personal information
 <tr>
 <td>Describe good and bad passwords? What is another step that is used to assist in authentication.</td>
 <td>
-A good password should have a variation of letters, numbers, and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices.
+A good password should have a variation of letters, numbers, and symbols. It should also be something very personal that only the creator of the password would know. Besides the actual password itself, another way to strengthen security would be to use multi factor authentication, where a user would have to sign into an account on multiple devices. Examples includes app such as Instagram or Google that ask you to enter a form of a code to the site to enter
 </td>
 </tr>
  
