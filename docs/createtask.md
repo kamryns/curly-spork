@@ -86,4 +86,4 @@ Result of the first call: If word length is 5, it moves onto checking if it is a
 Result of the second call: If the length of the word that is re-guessed is 5, it checks if that re-guessed word is valid.<br/>
 
 # Runtime Video
-[Create Task Runtime](https://www.loom.com/share/4e2beeba2ce04d32ad07f629e0d4fe1c?sharedAppSource=personal_library)
+[Create Task Runtime](https://www.loom.com/share/136423380cc5414394edce08461eeca4)
