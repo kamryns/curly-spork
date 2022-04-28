@@ -32,29 +32,20 @@ The overall purpose of the program is to provide entertainment for people. It is
 * Describes what functionality of the program is demonstrated in the video <br/>
 The program contains a variety of different 5-letter words chosen at random, which the user will try to guess. It tells them which of their guessed letters are actually there/in the right spot and which ones are not by checking each tile against the real word. If the user gets the correct word in 6 or less tries, they have won. <br/>
 * Describes the input and output of the program demonstrated in the video <br/>
-The user inputs 5-letter words by clicking the keyboard tiles. If they win the game, there will be an output message letting them know they’ve won, if they lose, there will be a message acknowledging they’ve lost.
+The user inputs 5-letter words by typing in their keyboard. If they win the game, there will be an output message letting them know they’ve won, if they lose, there will be a message acknowledging they’ve lost and telling them the secret word.
 
 
 3 b. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program. Approx. 200 words (for all subparts of 3b combined, exclusive of program code) <br/>
 * The first program code segment must show how data have been stored in the list. <br/>
-const keys = ['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', <br/>
-'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'ENTER', <br/>
-'Z', 'X', 'C', 'V', 'B', 'N', 'M', '«', <br/>
-]<br/>
+wordbank = ["cigar", "rebut", "sissy", "humph", "awake", "blush", "focal", "evade", "naval", "serve", "heath", "dwarf", "model", "karma", "stink", "grade", "quiet", "bench", "abate", "feign", "major", "death", "fresh", "crust", "stool", "colon", "abase", "marry", "react"...]<br/>
 * The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program’s purpose. Then, provide a written response that does all three of the following: <br/>
-keys.forEach(key => { <br/>
-const buttonElement = document.createElement('button') <br/>
-buttonElement.textContent = key <br/>
-buttonElement.setAttribute('id', key) <br/>
-buttonElement.addEventListener('click', () => handleClick(key)) <br/>
-keyboard.append(buttonElement) <br/>
-}) <br/>
+word = random.choice(wordbank) <br/>
 * Identifies the name of the list being used in this response <br/>
-The name of the list is “keys.” <br/>
+The name of the list is “wordbank.” <br/>
 * Describes what the data contained in the list represent in your program <br/>
-The data contained in the lists represents each of the individual keys on the keyboard that users interact with to form words and give their inputs. <br/>
+The data contained in the lists represents some of the possible solutions to the game to be chosen at random. <br/>
 * Explains how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list  <br/>
-The list enables me to create attributes for each individual key easily. Without the list, each key would have to be set as a variable one at a time. If that was the case, I couldn’t use a for loop to easily give each key the button and event attributes, or rather it would take significantly longer to do. <br/>
+The selected list manages complexity because it allows a user to play the game with a new word each time. If we did not use the list, we would have to hard-code a single word each time someone wanted to play. <br/>
 
 
 3 c. Capture and paste two program code segments you developed during the administration of this task that contain a student-developed procedure that implements an algorithm used in your program and a call to that procedure. Approx. 200 words (for all subparts of 3c combined, exclusive of program code) <br/>
