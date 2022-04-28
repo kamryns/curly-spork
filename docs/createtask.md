@@ -63,16 +63,19 @@ def checkwordlength(fword): <br/>
     guessagain1 = checkwordlength(guessagain1) <br/> 
     return guessagain1 <br/> 
 * The second program code segment must show where your student-developed procedure is being called in your program. Then, provide a written response that does both of the following: <br/>
-tileDisplay.append(rowElement)<br/>
+def checkall(fword): <br/>
+  fword = checkwordlength(fword) <br/>
+  fword = checkwordvalid(fword) <br/>
+  fword = checkword(fword) <br/>
+  return fword <br/>
 * Describes in general what the identified procedure does and how it contributes to the overall functionality of the program <br/>
 It gives each row a unique ID and each tile within those rows unique IDs, which can be used later to compare each letter to the letters of the word that is being guessed. <br/>
 * Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it. <br/>
-There is an array titled “guessRows” with 6 rows of 5 empty spaces for each letter. For each row, I am creating a “div” element to actually separate each row. Then, within each separate row, I am creating a “div” element to actually separate each tile. <br/>
+First, it checks if the guessed word is 5 letters. If it is, it returns that word and carries onto the next function. If it is more or less, it prints that it is not a 5 letter word, and gives and input for a user to guess again. This new input is then checked by the checkword length function again, but with "guessagain" passed through it instead of the original "fword".<br/>
 
 
 3 d. Provide a written response that does all three of the following: Approx. 200 words (for all subparts of 3d combined) <br/>
 * Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute. <br/>
-This procedure only has one function call.
 First call: fword = checkwordlength(fword) <br/>
 Second call: guessagain1 = checkwordlength(guessagain1) <br/>
 * Describes what condition(s) is being tested by each call to the procedure <br/>
