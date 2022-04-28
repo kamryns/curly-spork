@@ -49,15 +49,19 @@ The selected list manages complexity because it allows a user to play the game w
 
 
 3 c. Capture and paste two program code segments you developed during the administration of this task that contain a student-developed procedure that implements an algorithm used in your program and a call to that procedure. Approx. 200 words (for all subparts of 3c combined, exclusive of program code) <br/>
-* The first program code segment must be a student-developed procedure that: □ Defines the procedure’s name and return type (if necessary) □ Contains and uses one or more parameters that have an effect on the functionality of the procedure □ Implements an algorithm that includes sequencing, selection, and iteration <br/>
-guessRows.forEach((guessRow, guessRowIndex) => { <br/>
-const rowElement = document.createElement('div') <br/>
-rowElement.setAttribute('id', 'guessRow-' + guessRowIndex) <br/>
-guessRow.forEach((guess, guessIndex) => { <br/>
-const tileElement = document.createElement('div') <br/>
-tileElement.setAttribute('id', 'guessRow-' + guessRowIndex + '-tile-' + guessIndex) <br/>
-tileElement.classList.add('tile') <br/>
-rowElement.append(tileElement) <br/>
+* The first program code segment must be a student-developed procedure that: <br/> 
+□ Defines the procedure’s name and return type (if necessary)<br/>
+□ Contains and uses one or more parameters that have an effect on the functionality of the procedure <br/>
+□ Implements an algorithm that includes sequencing, selection, and iteration <br/>
+def checkwordlength(fword): <br/> 
+  if len(fword) == 5: <br/> 
+    return fword <br/> 
+  else: <br/> 
+    print (colored("not a 5 letter word", 'red')) <br/> 
+    guessagain1 = input("guess another word:    ") <br/> 
+    #pdb.set_trace() <br/> 
+    guessagain1 = checkwordlength(guessagain1) <br/> 
+    return guessagain1 <br/> 
 * The second program code segment must show where your student-developed procedure is being called in your program. Then, provide a written response that does both of the following: <br/>
 tileDisplay.append(rowElement)<br/>
 * Describes in general what the identified procedure does and how it contributes to the overall functionality of the program <br/>
@@ -69,14 +73,14 @@ There is an array titled “guessRows” with 6 rows of 5 empty spaces for each 
 3 d. Provide a written response that does all three of the following: Approx. 200 words (for all subparts of 3d combined) <br/>
 * Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute. <br/>
 This procedure only has one function call.
-First call: tileDisplay.append(rowElement) <br/>
-Second call: <br/>
+First call: fword = checkwordlength(fword) <br/>
+Second call: guessagain1 = checkwordlength(guessagain1) <br/>
 * Describes what condition(s) is being tested by each call to the procedure <br/>
-Condition(s) tested by the first call: The rows' ids. <br/>
-Condition(s) tested by the second call: <br/>
+First call: Checks if the guessed word is the appropriate length. <br/>
+Second call: Checks if the word that is re-guessed is the appropriate length. <br/>
 * Identifies the result of each call <br/>
-Result of the first call: Adds a new row ID to the display of the tiles<br/>
-Result of the second call: <br/>
+Result of the first call: If word length is 5, it moves onto checking if it is a valid word. <br/>
+Result of the second call: If the length of the word that is re-guessed is 5, it checks if that re-guessed word is valid.<br/>
 
 # Runtime Video
 [Create Task Runtime](https://www.loom.com/share/4e2beeba2ce04d32ad07f629e0d4fe1c?sharedAppSource=personal_library)
