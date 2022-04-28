@@ -69,7 +69,7 @@ def checkall(fword): <br/>
   fword = checkword(fword) <br/>
   return fword <br/>
 * Describes in general what the identified procedure does and how it contributes to the overall functionality of the program <br/>
-It gives each row a unique ID and each tile within those rows unique IDs, which can be used later to compare each letter to the letters of the word that is being guessed. <br/>
+It checks if the length of the user's attempted word is exactly 5 letters. The word must be 5 letters in order to match the 5-letter secret word. Otherwise, they cannot move on with the game and could never win.<br/>
 * Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it. <br/>
 First, it checks if the guessed word is 5 letters. If it is, it returns that word and carries onto the next function. If it is more or less, it prints that it is not a 5 letter word, and gives and input for a user to guess again. This new input is then checked by the checkword length function again, but with "guessagain" passed through it instead of the original "fword".<br/>
 
