@@ -1,3 +1,83 @@
+##Quiz 3
+### Score: 40/50
+<tr>
+<th>Question Number</th>
+<th>Correct Answer</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>
+B - Only 2 connections must be removed before Device T can no longer communicate with Device U because Device U is only connected to 2 other devices.
+</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>
+A and D - They both display integers from 1-20 that aren't divisible by 3, then after 20 it terminates.
+</td>
+</tr>
+</table>
+
+<tr>
+<td>7</td>
+<td>
+D - The procedure returns the sum of integers from 1 to n, not the product of integers.
+</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>
+C - They would be charged $5 for the first 25, then after that $7 for each additional unit. 
+</td>
+</tr>
+
+<tr>
+<td>17</td>
+<td>
+C and D - The procedure returns the first instance where a number is less than the first number. Therefore, in option C it would return 20 and in option D, it would return 30. 
+</td>
+</tr>
+
+<tr>
+<td>34</td>
+<td>
+B - Factorial does not run in a reasonable amount of time, so it doesn't meet the requirements of a heuristic approach. 
+</td>
+</tr>
+
+<tr>
+<td>35</td>
+<td>
+D - If the music was purchased and downloaded through a licensed music store, then it will not violate the DMCA.
+</td>
+</tr>
+
+<tr>
+<td>41</td>
+<td>
+D - In public cryptography, a message is encrypted with a recipient's public key and decrypted with the recipient's private key.
+</td>
+</tr>
+
+<tr>
+<td>43</td>
+<td>
+C - Users with a premium account won't even receive advertisements in the first place.
+</td>
+</tr>
+</table>
+
+<tr>
+<td>47</td>
+<td>
+A and D - These are the only two options that properly display the user's bonus score.
+</td>
+</tr>
+</table>
+
 ## Quiz 1
 ### Score: 36/50
 <table id="readmeinformation">
