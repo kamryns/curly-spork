@@ -1,4 +1,4 @@
-#python modules
+# python modules
 import random
 from colorama import init
 from termcolor import colored
