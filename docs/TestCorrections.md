@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ## Quiz 3
 ### Score: 40/50
 <table id="readmeinformation">
