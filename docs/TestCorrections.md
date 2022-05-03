@@ -1,4 +1,4 @@
-##Quiz 3
+## Quiz 3
 ### Score: 40/50
 <table id="readmeinformation">
 <tr>
@@ -19,7 +19,6 @@ B - Only 2 connections must be removed before Device T can no longer communicate
 A and D - They both display integers from 1-20 that aren't divisible by 3, then after 20 it terminates.
 </td>
 </tr>
-</table>
 
 <tr>
 <td>7</td>
