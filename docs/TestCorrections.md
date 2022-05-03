@@ -9,28 +9,28 @@
 <tr>
 <td>1</td>
 <td>
-B - Only 2 connections must be removed before Device T can no longer communicate with Device U because Device U is only connected to 2 other devices.
+B - Only 2 connections must be removed before Device T can no longer communicate with Device U because Device U is only connected to 2 other devices. I said 4 connections because I was only looking at Device T.
 </td>
 </tr>
 
 <tr>
 <td>6</td>
 <td>
-A and D - They both display integers from 1-20 that aren't divisible by 3, then after 20 it terminates.
+A and D - They both display integers from 1-20 that aren't divisible by 3, then after 20 it terminates. I said B and C because I was thinking the opposite logic.
 </td>
 </tr>
 
 <tr>
 <td>7</td>
 <td>
-D - The procedure returns the sum of integers from 1 to n, not the product of integers.
+D - The procedure returns the sum of integers from 1 to n, not the product of integers. I don't know why I was thinking it was the product, but looking at it now it is very obvious that it's the sum.
 </td>
 </tr>
 
 <tr>
 <td>13</td>
 <td>
-C - They would be charged $5 for the first 25, then after that $7 for each additional unit. 
+C - They would be charged $5 for the first 25, then after that $7 for each additional unit. I just switched around the 7 and 5 because I mixed up the logic.
 </td>
 </tr>
 
@@ -44,36 +44,35 @@ C and D - The procedure returns the first instance where a number is less than t
 <tr>
 <td>34</td>
 <td>
-B - Factorial does not run in a reasonable amount of time, so it doesn't meet the requirements of a heuristic approach. 
+B - Factorial does not run in a reasonable amount of time, so it does meet the requirements of a heuristic approach. I chose binary search, but since it runs in a resonable amount of time, heurisitc is not appropriate.
 </td>
 </tr>
 
 <tr>
 <td>35</td>
 <td>
-D - If the music was purchased and downloaded through a licensed music store, then it will not violate the DMCA.
+D - If the music was purchased and downloaded through a licensed music store, then it will not violate the DMCA. The option I chose is incorrect because I didn't realize geolocation could be accessed by the website.
 </td>
 </tr>
 
 <tr>
 <td>41</td>
 <td>
-D - In public cryptography, a message is encrypted with a recipient's public key and decrypted with the recipient's private key.
+D - In public cryptography, a message is encrypted with a recipient's public key and decrypted with the recipient's private key. I chose the sender's private key, but that can't be used to decrypt.
 </td>
 </tr>
 
 <tr>
 <td>43</td>
 <td>
-C - Users with a premium account won't even receive advertisements in the first place.
+C - Users with a premium account won't even receive advertisements in the first place. I just blanked on the fact that premium users pay to not receive advertisements, therefore, they won't receive targeted advertisements.
 </td>
 </tr>
-</table>
 
 <tr>
 <td>47</td>
 <td>
-A and D - These are the only two options that properly display the user's bonus score.
+A and D - These are the only two options that properly display the user's bonus score. I got this wrong because I kind of just guessed.
 </td>
 </tr>
 </table>
