@@ -1,6 +1,7 @@
 {% include navigation.html %}
 ## Quiz 5
-### Score: 25/50 (only answered 
+### Score: 25/50 (only answered 30 questions)
+
 <table id="readmeinformation">
 <tr>
 <th>Question Number</th>
@@ -41,6 +42,7 @@ C - Program A displays 1,2,3,4,5,6,7,8,9,10 while Program B displays 2,3,4,5,6,7
 A - The program properly executes its intended goal because the variable is initialized as 0 and increments count by 1 each time target is found.
 </td>
 </tr>    
+
   
 ## Quiz 3
 ### Score: 40/50
