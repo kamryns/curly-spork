@@ -1,4 +1,47 @@
 {% include navigation.html %}
+## Quiz 5
+### Score: 25/50 (only answered 
+<table id="readmeinformation">
+<tr>
+<th>Question Number</th>
+<th>Correct Answer</th>
+</tr>
+
+<tr>
+<td>2</td>
+<td>
+B - The error occurs because there are two calls to random for each iteration instead of just the necessary one. Line 9 should be replaced with else so it increments yCount when xCount doesn't meet the requirements.
+</td>
+</tr>
+  
+<tr>
+<td>4</td>
+<td>
+B & C - I got C correct, but I didn't get B. B is correct because when you divide any number by 2, the remainder can only be two values, 0 or 1. Then, these values can be represented by a single bit.
+</td>
+</tr>  
+
+<tr>
+<td>7</td>
+<td>
+C - 6 bits would only represent 2^6 = 64 employees. Therefore, you would need 7 bits, or 2^7 = 128 to represent the full 100 employees.
+</td>
+</tr>    
+  
+<tr>
+<td>15</td>
+<td>
+C - Program A displays 1,2,3,4,5,6,7,8,9,10 while Program B displays 2,3,4,5,6,7,8,9,10,11. So, they both display the same number of values, but Program B will always display one number greater than Program A.
+</td>
+</tr> 
+  
+<tr>
+<td>26</td>
+<td>
+A - The program properly executes its intended goal because the variable is initialized as 0 and increments count by 1 each time target is found.
+</td>
+</tr>    
+  
 ## Quiz 3
 ### Score: 40/50
 <table id="readmeinformation">
